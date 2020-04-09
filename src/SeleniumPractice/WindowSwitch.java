@@ -27,11 +27,11 @@ public class WindowSwitch
 		
 		driver.switchTo().window(ChildWindow);
 		
-		
-		
 		Thread.sleep(50000);
 		
 		driver.close();
+		
+		
 		
 		
 		
