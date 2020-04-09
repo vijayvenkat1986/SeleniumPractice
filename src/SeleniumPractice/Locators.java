@@ -45,6 +45,7 @@ public class Locators {
 		
 		driver.findElement(By.linkText("Blogger")).click();
 		
+		
 		/*driver.findElement(By.linkText("newtours")).click();
 		
 		String secondURL = driver.getCurrentUrl();
